@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="xll_svm.vcxproj" />
+  <Project Path="xll24/xll.vcxproj" Id="7d7375af-e7e3-42d3-a00f-d8ee22c39924">
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="xll_svm.vcxproj" Id="74f3a63e-df93-4c55-aefa-bee4e05758fb" />
 </Solution>
